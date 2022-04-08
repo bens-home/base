@@ -28,6 +28,12 @@ git clone git@github.com:bens-home/base.git
 Initalize all the submodules in the repo
 
 ```
+git pull --recurse-submodules
+```
+
+or
+
+```
 git submodule update --init --recursive
 ```
 
