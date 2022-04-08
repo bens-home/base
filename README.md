@@ -16,3 +16,19 @@
 This is the base repo for my home server stack. This is designed so that it can be cloned onto a fresh server install and give me everything that I want. It's built up of various submodules so that I can do different versioning and branching for each feature if desired.
 
 This is really just for my own personal use and organization. 
+
+## Geting Started
+
+Clone this repo with SSH:
+
+```
+git clone git@github.com:bens-home/base.git
+```
+
+Initalize all the submodules in the repo
+
+```
+git submodule update --init --recursive
+```
+
+The submodules are added with the SSH path, so you need to have that set up on your git account.
