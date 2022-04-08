@@ -7,3 +7,6 @@
 [submodule "minecraft"]
 	path = minecraft
 	url = git@github.com:bens-home/minecraft.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:bens-home/tools.git
