@@ -4,3 +4,6 @@
 [submodule "PiHole"]
 	path = PiHole
 	url = git@github.com:bens-home/PiHole.git
+[submodule "minecraft"]
+	path = minecraft
+	url = git@github.com:bens-home/minecraft.git
