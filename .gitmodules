@@ -1,3 +1,6 @@
 [submodule "Plex"]
 	path = Plex
 	url = git@github.com:bens-home/Plex.git
+[submodule "PiHole"]
+	path = PiHole
+	url = git@github.com:bens-home/PiHole.git
