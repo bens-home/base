@@ -22,10 +22,10 @@ This is really just for my own personal use and organization.
 Clone this repo with SSH:
 
 ```
-git clone git@github.com:bens-home/base.git
+git clone git@github.com:bens-home/base.git --recurse-submodules
 ```
 
-Initalize all the submodules in the repo
+Just for reference in the future, you can initalize all the submodules in the repo like this:
 
 ```
 git pull --recurse-submodules
