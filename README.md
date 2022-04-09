@@ -38,3 +38,5 @@ git submodule update --init --recursive
 ```
 
 The submodules are added with the SSH path, so you need to have that set up on your git account.
+
+A lot of stuff in here uses Docker or Docker Compose, be make sure to [install it](https://docs.docker.com/compose/install/) on your machine.
