@@ -10,3 +10,6 @@
 [submodule "tools"]
 	path = tools
 	url = git@github.com:bens-home/tools.git
+[submodule "NoIpUpdateClient"]
+	path = NoIpUpdateClient
+	url = git@github.com:bens-home/NoIpUpdateClient.git
