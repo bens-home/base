@@ -13,3 +13,6 @@
 [submodule "NoIpUpdateClient"]
 	path = NoIpUpdateClient
 	url = git@github.com:bens-home/NoIpUpdateClient.git
+[submodule "PerforceServer"]
+	path = PerforceServer
+	url = git@github.com:bens-home/PerforceServer.git
