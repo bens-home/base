@@ -19,3 +19,6 @@
 [submodule "focalboard"]
 	path = focalboard
 	url = git@github.com:bens-home/focalboard.git
+[submodule "UnifiController"]
+	path = UnifiController
+	url = git@github.com:bens-home/UnifiController.git
