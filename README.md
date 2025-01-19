@@ -40,3 +40,13 @@ git submodule update --init --recursive
 The submodules are added with the SSH path, so you need to have that set up on your git account.
 
 A lot of stuff in here uses Docker or Docker Compose, be make sure to [install it](https://docs.docker.com/compose/install/) on your machine.
+
+## Adding new services
+
+Each service should be contained within its own GitHub repo and added as a submodule to this one. 
+
+So if there is a new feature or service you would like to add in the future, create a new repo on GitHub for the [project](https://github.com/bens-home) and then add it as a submodule to this "base" repo, like this:
+
+```
+git submodule add <path of repo>
+```
