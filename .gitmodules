@@ -22,3 +22,6 @@
 [submodule "UnifiController"]
 	path = UnifiController
 	url = git@github.com:bens-home/UnifiController.git
+[submodule "Calibre"]
+	path = Calibre
+	url = git@github.com:bens-home/Calibre.git
