@@ -25,3 +25,6 @@
 [submodule "Calibre"]
 	path = Calibre
 	url = git@github.com:bens-home/Calibre.git
+[submodule "jellyfin"]
+	path = jellyfin
+	url = git@github.com:bens-home/jellyfin.git
