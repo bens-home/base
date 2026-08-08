@@ -13,9 +13,6 @@
 [submodule "PerforceServer"]
 	path = PerforceServer
 	url = git@github.com:bens-home/PerforceServer.git
-[submodule "UnifiController"]
-	path = UnifiController
-	url = git@github.com:bens-home/UnifiController.git
 [submodule "Calibre"]
 	path = Calibre
 	url = git@github.com:bens-home/Calibre.git
