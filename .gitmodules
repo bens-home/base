@@ -25,3 +25,6 @@
 [submodule "MediaStack"]
 	path = MediaStack
 	url = git@github.com:bens-home/MediaStack.git
+[submodule "HomeAssistant"]
+	path = HomeAssistant
+	url = git@github.com:bens-home/HomeAssistant.git
